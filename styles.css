@@ -32,6 +32,14 @@ p {
 	color: hsl(240, 6%, 50%);
 	line-height: 1.5em;
 }
+.attribution {
+	font-size: 11px;
+	text-align: center;
+	color: hsl(0, 0%, 100%);
+}
+.attribution a {
+	color: hsl(0, 0%, 100%);
+}
 
 .page {
 	max-width: 100%;

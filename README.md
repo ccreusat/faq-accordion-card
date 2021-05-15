@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [Solution](https://your-solution-url.com)
+-   Solution URL: [Solution](https://www.frontendmentor.io/solutions/simple-faq-card-and-css3-animations-Jvj2XMMEz)
 -   Live Site URL: [Live site](https://ccreusat-faq-accordion.vercel.app)
 
 ## My process
